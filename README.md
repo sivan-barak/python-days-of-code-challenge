@@ -13,4 +13,5 @@ This project has my solutions for the WWCode PythonDaysOfCode 2024 Challenge.
 | 	Day 6	|   #Write a program to count the occurrences of a specific character in a string.	| 	[link](day_6_count_occ_of_char_in_string.py)	 |
 | 	Day 7	|   #Write a program to check if a number is positive, negative, or zero.	| 	[link](day_7_pos_neg_zero.py)	 |
 | 	Day 8	|   #Write a function that accepts a string and calculates the number of uppercase and lowercase letters in it.	| 	[link](day_8_num_of_upp_low_letters.py)	 |
-| 	Day 9	|   # Write a program to check if a number is even or odd.	| 	[link](day_9_check_even_or_odd.py)	 |
+| 	Day 9	|   #Write a program to check if a number is even or odd.	| 	[link](day_9_check_even_or_odd.py)	 |
+| 	Day 10	|   #Write a program to remove duplicates from a list.	| 	[link](day_10_remove_dup_from_list.py)	 |
