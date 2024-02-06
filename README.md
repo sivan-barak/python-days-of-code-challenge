@@ -15,3 +15,4 @@ This project has my solutions for the WWCode PythonDaysOfCode 2024 Challenge.
 | 	Day 8	|   #Write a function that accepts a string and calculates the number of uppercase and lowercase letters in it.	| 	[link](day_8_num_of_upp_low_letters.py)	 |
 | 	Day 9	|   #Write a program to check if a number is even or odd.	| 	[link](day_9_check_even_or_odd.py)	 |
 | 	Day 10	|   #Write a program to remove duplicates from a list.	| 	[link](day_10_remove_dup_from_list.py)	 |
+| 	Day 11	|   #Write a program to print the multiplication table of a given number.	| 	[link](day_11_mult_table.py)	 |
